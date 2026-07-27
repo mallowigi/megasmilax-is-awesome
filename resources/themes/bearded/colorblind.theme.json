@@ -2,7 +2,7 @@
   "name": "Bearded Theme Colorblind",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/colorblind.xml",
+  "editorScheme": "/themes/bearded/colorblind.xml",
   "ui": {
     "*": {
       "arc": "7",

@@ -2,7 +2,7 @@
   "name": "Bearded Theme HC Midnight Void",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/hc-midnightvoid.xml",
+  "editorScheme": "/themes/bearded/hc-midnightvoid.xml",
   "ui": {
     "*": {
       "arc": "7",

@@ -2,7 +2,7 @@
   "name": "Bearded Theme Surprising Watermelon",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/surprising-watermelon.xml",
+  "editorScheme": "/themes/bearded/surprising-watermelon.xml",
   "ui": {
     "*": {
       "arc": "7",

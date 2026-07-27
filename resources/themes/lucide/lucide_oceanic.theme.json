@@ -2,7 +2,7 @@
   "name": "Lucide Oceanic",
   "dark": false,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_oceanic.xml",
+  "editorScheme": "/themes/lucide/lucide_oceanic.xml",
   "colors": {
     "primaryBackground": "#EAF6F8",
     "secondaryBackground": "#D8EEF2",

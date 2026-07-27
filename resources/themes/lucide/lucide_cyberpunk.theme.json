@@ -2,7 +2,7 @@
   "name": "Lucide Cyberpunk",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_cyberpunk.xml",
+  "editorScheme": "/themes/lucide/lucide_cyberpunk.xml",
   "colors": {
     "primaryBackground": "#0D0221",
     "secondaryBackground": "#150530",

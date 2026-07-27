@@ -2,7 +2,7 @@
   "name": "Lucide Sumi-e light",
   "dark": false,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_sumi-e-light.xml",
+  "editorScheme": "/themes/lucide/lucide_sumi-e-light.xml",
   "colors": {
     "primaryBackground": "#F5F0E8",
     "secondaryBackground": "#EBE5DB",

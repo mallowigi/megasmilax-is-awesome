@@ -2,7 +2,7 @@
   "name": "Bearded Theme Gold D Raynh Light",
   "dark": false,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/gold-d-raynh-light.xml",
+  "editorScheme": "/themes/bearded/gold-d-raynh-light.xml",
   "ui": {
     "*": {
       "arc": "5",

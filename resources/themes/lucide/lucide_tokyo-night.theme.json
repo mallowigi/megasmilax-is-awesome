@@ -2,7 +2,7 @@
   "name": "Lucide Tokyo Night",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_tokyo-night.xml",
+  "editorScheme": "/themes/lucide/lucide_tokyo-night.xml",
   "colors": {
     "primaryBackground": "#1A1B2E",
     "secondaryBackground": "#1F2035",

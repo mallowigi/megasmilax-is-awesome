@@ -2,7 +2,7 @@
   "name": "Noctis Viola",
   "dark": true,
   "author": "Liviu Schera",
-  "editorScheme": "/themes/noctis_viola.xml",
+  "editorScheme": "/themes/noctis/noctis_viola.xml",
   "colors": {
     "background": "#30243d",
     "foreground": "#ccbfd9",

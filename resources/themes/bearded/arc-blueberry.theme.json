@@ -2,7 +2,7 @@
   "name": "Bearded Theme Arc Blueberry",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/arc-blueberry.xml",
+  "editorScheme": "/themes/bearded/arc-blueberry.xml",
   "ui": {
     "*": {
       "arc": "7",

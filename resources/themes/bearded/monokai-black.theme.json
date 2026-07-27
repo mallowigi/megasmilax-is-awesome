@@ -2,7 +2,7 @@
   "name": "Bearded Theme Monokai Black",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/monokai-black.xml",
+  "editorScheme": "/themes/bearded/monokai-black.xml",
   "ui": {
     "*": {
       "arc": "7",

@@ -2,7 +2,7 @@
   "name": "Bearded Theme Milkshake Mint",
   "dark": false,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/milkshake-mint.xml",
+  "editorScheme": "/themes/bearded/milkshake-mint.xml",
   "ui": {
     "*": {
       "arc": "5",

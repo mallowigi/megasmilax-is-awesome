@@ -2,7 +2,7 @@
   "name": "Bearded Theme Surprising Blueberry",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/surprising-blueberry.xml",
+  "editorScheme": "/themes/bearded/surprising-blueberry.xml",
   "ui": {
     "*": {
       "arc": "7",

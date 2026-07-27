@@ -2,7 +2,7 @@
   "name": "Noctis",
   "dark": true,
   "author": "Liviu Schera",
-  "editorScheme": "/themes/noctis.xml",
+  "editorScheme": "/themes/noctis/noctis.xml",
   "colors": {
     "background": "#052529",
     "foreground": "#b2cacd",

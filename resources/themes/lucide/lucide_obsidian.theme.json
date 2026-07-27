@@ -2,7 +2,7 @@
   "name": "Lucide Obsidian",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_obsidian.xml",
+  "editorScheme": "/themes/lucide/lucide_obsidian.xml",
   "colors": {
     "primaryBackground": "#0D0D0D",
     "secondaryBackground": "#161616",

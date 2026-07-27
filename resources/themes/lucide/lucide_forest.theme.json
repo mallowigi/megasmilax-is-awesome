@@ -2,7 +2,7 @@
   "name": "Lucide Forest",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_forest.xml",
+  "editorScheme": "/themes/lucide/lucide_forest.xml",
   "colors": {
     "primaryBackground": "#0D1A0D",
     "secondaryBackground": "#132013",

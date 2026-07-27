@@ -2,7 +2,7 @@
   "name": "Lucide Desert",
   "dark": false,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_desert.xml",
+  "editorScheme": "/themes/lucide/lucide_desert.xml",
   "colors": {
     "primaryBackground": "#FAF5EC",
     "secondaryBackground": "#F0E8DC",

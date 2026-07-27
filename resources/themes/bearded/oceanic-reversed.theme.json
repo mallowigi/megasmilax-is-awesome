@@ -2,7 +2,7 @@
   "name": "Bearded Theme Oceanic Reversed",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/oceanic-reversed.xml",
+  "editorScheme": "/themes/bearded/oceanic-reversed.xml",
   "ui": {
     "*": {
       "arc": "7",

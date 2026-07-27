@@ -2,7 +2,7 @@
   "name": "Bearded Theme Black & Ruby",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/black-ruby.xml",
+  "editorScheme": "/themes/bearded/black-ruby.xml",
   "ui": {
     "*": {
       "arc": "7",

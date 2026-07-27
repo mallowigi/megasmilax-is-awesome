@@ -2,7 +2,7 @@
   "name": "Andromeda Forest",
   "dark": true,
   "author": "EliverLara (VS Code)",
-  "editorScheme": "/themes/AndromedaForest.xml",
+  "editorScheme": "/themes/andromeda/AndromedaForest.xml",
   "ui": {
     "*": {
       "background": "#23262E",

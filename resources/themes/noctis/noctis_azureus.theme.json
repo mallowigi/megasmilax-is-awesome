@@ -2,7 +2,7 @@
   "name": "Noctis Azureus",
   "dark": true,
   "author": "Liviu Schera",
-  "editorScheme": "/themes/noctis_azureus.xml",
+  "editorScheme": "/themes/noctis/noctis_azureus.xml",
   "colors": {
     "background": "#07273b",
     "foreground": "#becfda",

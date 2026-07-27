@@ -2,7 +2,7 @@
   "name": "Panda Dark",
   "dark": true,
   "author": "Siamak Mokhtari",
-  "editorScheme": "/themes/Panda.xml",
+  "editorScheme": "/themes/panda/Panda.xml",
   "ui": {
     "*": {
       "background": "#292A2B",

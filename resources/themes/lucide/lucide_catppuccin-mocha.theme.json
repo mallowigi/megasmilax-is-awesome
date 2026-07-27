@@ -2,7 +2,7 @@
   "name": "Lucide Catppuccin Mocha",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_catppuccin-mocha.xml",
+  "editorScheme": "/themes/lucide/lucide_catppuccin-mocha.xml",
   "colors": {
     "primaryBackground": "#1E1E2E",
     "secondaryBackground": "#232334",

@@ -2,7 +2,7 @@
   "name": "Lucide One Dark",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_one-dark.xml",
+  "editorScheme": "/themes/lucide/lucide_one-dark.xml",
   "colors": {
     "primaryBackground": "#282C34",
     "secondaryBackground": "#2C313A",

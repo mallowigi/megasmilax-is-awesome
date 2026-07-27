@@ -2,7 +2,7 @@
   "name": "Bearded Theme Anthracite",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/anthracite.xml",
+  "editorScheme": "/themes/bearded/anthracite.xml",
   "ui": {
     "*": {
       "arc": "7",

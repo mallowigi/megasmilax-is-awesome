@@ -2,7 +2,7 @@
   "name": "Lucide Rose",
   "dark": false,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_rose.xml",
+  "editorScheme": "/themes/lucide/lucide_rose.xml",
   "colors": {
     "primaryBackground": "#FFF5F7",
     "secondaryBackground": "#FFE8EC",

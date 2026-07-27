@@ -2,7 +2,7 @@
   "name": "Bearded Theme Light",
   "dark": false,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/anthracite-light.xml",
+  "editorScheme": "/themes/bearded/anthracite-light.xml",
   "ui": {
     "*": {
       "arc": "5",

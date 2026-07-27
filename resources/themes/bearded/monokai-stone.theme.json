@@ -2,7 +2,7 @@
   "name": "Bearded Theme Monokai Stone",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/monokai-stone.xml",
+  "editorScheme": "/themes/bearded/monokai-stone.xml",
   "ui": {
     "*": {
       "arc": "7",

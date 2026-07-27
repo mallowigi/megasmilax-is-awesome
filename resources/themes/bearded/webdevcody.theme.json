@@ -2,7 +2,7 @@
   "name": "Bearded Theme WebDevCody",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/webdevcody.xml",
+  "editorScheme": "/themes/bearded/webdevcody.xml",
   "ui": {
     "*": {
       "arc": "7",

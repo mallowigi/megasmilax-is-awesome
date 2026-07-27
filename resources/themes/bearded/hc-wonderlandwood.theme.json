@@ -2,7 +2,7 @@
   "name": "Bearded Theme HC Wonderland Wood",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/hc-wonderlandwood.xml",
+  "editorScheme": "/themes/bearded/hc-wonderlandwood.xml",
   "ui": {
     "*": {
       "arc": "7",

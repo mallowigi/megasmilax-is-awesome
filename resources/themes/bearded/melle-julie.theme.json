@@ -2,7 +2,7 @@
   "name": "Bearded Theme Melle Julie",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/melle-julie.xml",
+  "editorScheme": "/themes/bearded/melle-julie.xml",
   "ui": {
     "*": {
       "arc": "7",

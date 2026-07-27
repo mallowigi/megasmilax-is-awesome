@@ -2,7 +2,7 @@
   "name": "Bearded Theme Milkshake Mango",
   "dark": false,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/milkshake-mango.xml",
+  "editorScheme": "/themes/bearded/milkshake-mango.xml",
   "ui": {
     "*": {
       "arc": "5",

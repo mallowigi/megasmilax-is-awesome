@@ -2,7 +2,7 @@
   "name": "Bearded Theme Will",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/will.xml",
+  "editorScheme": "/themes/bearded/will.xml",
   "ui": {
     "*": {
       "arc": "7",

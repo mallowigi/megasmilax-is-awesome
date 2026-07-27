@@ -2,7 +2,7 @@
   "name": "Noctis Bordo",
   "dark": true,
   "author": "Liviu Schera",
-  "editorScheme": "/themes/noctis_bordo.xml",
+  "editorScheme": "/themes/noctis/noctis_bordo.xml",
   "colors": {
     "background": "#322a2d",
     "foreground": "#cbbec2",

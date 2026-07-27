@@ -2,7 +2,7 @@
   "name": "Lucide Snow",
   "dark": false,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_snow.xml",
+  "editorScheme": "/themes/lucide/lucide_snow.xml",
   "colors": {
     "primaryBackground": "#FFFFFF",
     "secondaryBackground": "#F5F5F5",

@@ -2,7 +2,7 @@
   "name": "Lucide Nord",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_nord.xml",
+  "editorScheme": "/themes/lucide/lucide_nord.xml",
   "colors": {
     "primaryBackground": "#2E3440",
     "secondaryBackground": "#343B48",

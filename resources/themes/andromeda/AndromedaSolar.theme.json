@@ -2,7 +2,7 @@
   "name": "Andromeda Solar",
   "dark": true,
   "author": "EliverLara (VS Code)",
-  "editorScheme": "/themes/AndromedaSolar.xml",
+  "editorScheme": "/themes/andromeda/AndromedaSolar.xml",
   "ui": {
     "*": {
       "background": "#23262E",

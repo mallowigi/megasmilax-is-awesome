@@ -2,7 +2,7 @@
   "name": "Bearded Theme Monokai Metallian",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/monokai-metallian.xml",
+  "editorScheme": "/themes/bearded/monokai-metallian.xml",
   "ui": {
     "*": {
       "arc": "7",

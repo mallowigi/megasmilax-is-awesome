@@ -2,7 +2,7 @@
   "name": "Bearded Theme Vivid Black",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/vivid-black.xml",
+  "editorScheme": "/themes/bearded/vivid-black.xml",
   "ui": {
     "*": {
       "arc": "7",

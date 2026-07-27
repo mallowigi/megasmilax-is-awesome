@@ -2,7 +2,7 @@
   "name": "Lucide Volcano",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_volcano.xml",
+  "editorScheme": "/themes/lucide/lucide_volcano.xml",
   "colors": {
     "primaryBackground": "#120A00",
     "secondaryBackground": "#1A1000",

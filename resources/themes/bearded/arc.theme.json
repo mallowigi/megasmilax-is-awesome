@@ -2,7 +2,7 @@
   "name": "Bearded Theme Arc",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/arc.xml",
+  "editorScheme": "/themes/bearded/arc.xml",
   "ui": {
     "*": {
       "arc": "7",

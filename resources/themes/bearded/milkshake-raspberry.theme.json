@@ -2,7 +2,7 @@
   "name": "Bearded Theme Milkshake Raspberry",
   "dark": false,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/milkshake-raspberry.xml",
+  "editorScheme": "/themes/bearded/milkshake-raspberry.xml",
   "ui": {
     "*": {
       "arc": "5",

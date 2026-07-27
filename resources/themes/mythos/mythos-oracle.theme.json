@@ -2,7 +2,7 @@
   "name": "Mythos Oracle",
   "dark": true,
   "author": "Mythos",
-  "editorScheme": "/themes/mythos-oracle.xml",
+  "editorScheme": "/themes/mythos/mythos-oracle.xml",
   "colors": {
     "bg": "#1C1714",
     "bg2": "#261F1B",

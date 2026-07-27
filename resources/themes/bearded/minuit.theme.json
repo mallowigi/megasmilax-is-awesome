@@ -2,7 +2,7 @@
   "name": "Bearded Theme Minuit",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/minuit.xml",
+  "editorScheme": "/themes/bearded/minuit.xml",
   "ui": {
     "*": {
       "arc": "7",

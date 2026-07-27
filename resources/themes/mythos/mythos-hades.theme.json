@@ -2,7 +2,7 @@
   "name": "Mythos Hades",
   "dark": true,
   "author": "Mythos",
-  "editorScheme": "/themes/mythos-hades.xml",
+  "editorScheme": "/themes/mythos/mythos-hades.xml",
   "colors": {
     "bg": "#15101C",
     "bg2": "#1E1828",

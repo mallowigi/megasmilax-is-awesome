@@ -2,7 +2,7 @@
   "name": "Bearded Theme Solarized Reversed",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/solarized-reversed.xml",
+  "editorScheme": "/themes/bearded/solarized-reversed.xml",
   "ui": {
     "*": {
       "arc": "7",

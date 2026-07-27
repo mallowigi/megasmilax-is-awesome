@@ -2,7 +2,7 @@
   "name": "Lucide Catppuccin Latte",
   "dark": false,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_catppuccin-latte.xml",
+  "editorScheme": "/themes/lucide/lucide_catppuccin-latte.xml",
   "colors": {
     "primaryBackground": "#EFF1F5",
     "secondaryBackground": "#E6E9EF",

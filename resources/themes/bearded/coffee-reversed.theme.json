@@ -2,7 +2,7 @@
   "name": "Bearded Theme Coffee Reversed",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/coffee-reversed.xml",
+  "editorScheme": "/themes/bearded/coffee-reversed.xml",
   "ui": {
     "*": {
       "arc": "7",

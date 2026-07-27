@@ -2,7 +2,7 @@
   "name": "Bearded Theme Monokai Terra",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/monokai-terra.xml",
+  "editorScheme": "/themes/bearded/monokai-terra.xml",
   "ui": {
     "*": {
       "arc": "7",

@@ -2,7 +2,7 @@
   "name": "Lucide Aurora",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_aurora.xml",
+  "editorScheme": "/themes/lucide/lucide_aurora.xml",
   "colors": {
     "primaryBackground": "#0D1117",
     "secondaryBackground": "#131920",

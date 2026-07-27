@@ -2,7 +2,7 @@
   "name": "Bearded Theme Aquarelle Hydrangea",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/aquarelle-hydrangea.xml",
+  "editorScheme": "/themes/bearded/aquarelle-hydrangea.xml",
   "ui": {
     "*": {
       "arc": "7",

@@ -2,7 +2,7 @@
   "name": "Noctis Lilac",
   "dark": false,
   "author": "Liviu Schera",
-  "editorScheme": "/themes/noctis_lilac.xml",
+  "editorScheme": "/themes/noctis/noctis_lilac.xml",
   "colors": {
     "background": "#f2f1f8",
     "foreground": "#0c006b",

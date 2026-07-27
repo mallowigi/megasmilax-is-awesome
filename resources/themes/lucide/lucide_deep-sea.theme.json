@@ -2,7 +2,7 @@
   "name": "Lucide Deep Sea",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_deep-sea.xml",
+  "editorScheme": "/themes/lucide/lucide_deep-sea.xml",
   "colors": {
     "primaryBackground": "#0A1E28",
     "secondaryBackground": "#0F2530",

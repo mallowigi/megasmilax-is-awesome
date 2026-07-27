@@ -2,7 +2,7 @@
   "name": "Noctis Minimus",
   "dark": true,
   "author": "Liviu Schera",
-  "editorScheme": "/themes/noctis_minimus.xml",
+  "editorScheme": "/themes/noctis/noctis_minimus.xml",
   "colors": {
     "background": "#1b2932",
     "foreground": "#c5cdd3",

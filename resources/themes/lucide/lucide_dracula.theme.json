@@ -2,7 +2,7 @@
   "name": "Lucide Dracula",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_dracula.xml",
+  "editorScheme": "/themes/lucide/lucide_dracula.xml",
   "colors": {
     "primaryBackground": "#282A36",
     "secondaryBackground": "#2D2F3D",

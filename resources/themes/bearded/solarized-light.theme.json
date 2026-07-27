@@ -2,7 +2,7 @@
   "name": "Bearded Theme Solarized Light",
   "dark": false,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/solarized-light.xml",
+  "editorScheme": "/themes/bearded/solarized-light.xml",
   "ui": {
     "*": {
       "arc": "5",

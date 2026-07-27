@@ -2,7 +2,7 @@
   "name": "Noctis Obscuro",
   "dark": true,
   "author": "Liviu Schera",
-  "editorScheme": "/themes/noctis_obscuro.xml",
+  "editorScheme": "/themes/noctis/noctis_obscuro.xml",
   "colors": {
     "background": "#031417",
     "foreground": "#b2cacd",

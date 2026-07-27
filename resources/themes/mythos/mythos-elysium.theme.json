@@ -2,7 +2,7 @@
   "name": "Mythos Elysium",
   "dark": false,
   "author": "Mythos",
-  "editorScheme": "/themes/mythos-elysium.xml",
+  "editorScheme": "/themes/mythos/mythos-elysium.xml",
   "colors": {
     "bg": "#F4ECD8",
     "bg2": "#EBE0C6",

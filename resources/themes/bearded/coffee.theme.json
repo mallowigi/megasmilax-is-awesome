@@ -2,7 +2,7 @@
   "name": "Bearded Theme Coffee",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/coffee.xml",
+  "editorScheme": "/themes/bearded/coffee.xml",
   "ui": {
     "*": {
       "arc": "7",

@@ -2,7 +2,7 @@
   "name": "Bearded Theme Arc Reversed",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/arc-reversed.xml",
+  "editorScheme": "/themes/bearded/arc-reversed.xml",
   "ui": {
     "*": {
       "arc": "7",

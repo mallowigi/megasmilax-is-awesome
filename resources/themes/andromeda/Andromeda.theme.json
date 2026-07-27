@@ -2,7 +2,7 @@
   "name": "Andromeda",
   "dark": true,
   "author": "EliverLara (VS Code)",
-  "editorScheme": "/themes/Andromeda.xml",
+  "editorScheme": "/themes/andromeda/Andromeda.xml",
   "ui": {
     "*": {
       "background": "#23262E",

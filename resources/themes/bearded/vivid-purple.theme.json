@@ -2,7 +2,7 @@
   "name": "Bearded Theme Vivid Purple",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/vivid-purple.xml",
+  "editorScheme": "/themes/bearded/vivid-purple.xml",
   "ui": {
     "*": {
       "arc": "7",

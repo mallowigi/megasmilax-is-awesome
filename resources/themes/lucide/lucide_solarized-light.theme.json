@@ -2,7 +2,7 @@
   "name": "Lucide Solarized Light",
   "dark": false,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_solarized-light.xml",
+  "editorScheme": "/themes/lucide/lucide_solarized-light.xml",
   "colors": {
     "primaryBackground": "#FDF6E3",
     "secondaryBackground": "#EEE8D5",

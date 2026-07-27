@@ -2,7 +2,7 @@
   "name": "Bearded Theme Coffee Cream",
   "dark": false,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/coffee-cream.xml",
+  "editorScheme": "/themes/bearded/coffee-cream.xml",
   "ui": {
     "*": {
       "arc": "5",

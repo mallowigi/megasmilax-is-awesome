@@ -2,7 +2,7 @@
   "name": "Bearded Theme Stained Blue",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/stained-blue.xml",
+  "editorScheme": "/themes/bearded/stained-blue.xml",
   "ui": {
     "*": {
       "arc": "7",

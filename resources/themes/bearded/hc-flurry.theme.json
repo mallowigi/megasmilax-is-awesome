@@ -2,7 +2,7 @@
   "name": "Bearded Theme HC Flurry",
   "dark": false,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/hc-flurry.xml",
+  "editorScheme": "/themes/bearded/hc-flurry.xml",
   "ui": {
     "*": {
       "arc": "5",

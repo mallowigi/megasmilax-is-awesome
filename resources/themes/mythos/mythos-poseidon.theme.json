@@ -2,7 +2,7 @@
   "name": "Mythos Poseidon",
   "dark": true,
   "author": "Mythos",
-  "editorScheme": "/themes/mythos-poseidon.xml",
+  "editorScheme": "/themes/mythos/mythos-poseidon.xml",
   "colors": {
     "bg": "#0C1F24",
     "bg2": "#142A32",

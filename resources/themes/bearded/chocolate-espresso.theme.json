@@ -2,7 +2,7 @@
   "name": "Bearded Theme Chocolate Espresso",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/chocolate-espresso.xml",
+  "editorScheme": "/themes/bearded/chocolate-espresso.xml",
   "ui": {
     "*": {
       "arc": "7",

@@ -2,7 +2,7 @@
   "name": "Bearded Theme Earth",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/earth.xml",
+  "editorScheme": "/themes/bearded/earth.xml",
   "ui": {
     "*": {
       "arc": "7",

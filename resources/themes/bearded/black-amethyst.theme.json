@@ -2,7 +2,7 @@
   "name": "Bearded Theme Black & Amethyst",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/black-amethyst.xml",
+  "editorScheme": "/themes/bearded/black-amethyst.xml",
   "ui": {
     "*": {
       "arc": "7",

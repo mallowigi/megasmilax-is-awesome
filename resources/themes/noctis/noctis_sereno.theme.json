@@ -2,7 +2,7 @@
   "name": "Noctis Sereno",
   "dark": true,
   "author": "Liviu Schera",
-  "editorScheme": "/themes/noctis_sereno.xml",
+  "editorScheme": "/themes/noctis/noctis_sereno.xml",
   "colors": {
     "background": "#112b2f",
     "foreground": "#b2cacd",

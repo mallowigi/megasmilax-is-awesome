@@ -2,7 +2,7 @@
   "name": "Bearded Theme Surprising Eggplant",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/surprising-eggplant.xml",
+  "editorScheme": "/themes/bearded/surprising-eggplant.xml",
   "ui": {
     "*": {
       "arc": "7",

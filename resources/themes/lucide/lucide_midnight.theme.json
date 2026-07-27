@@ -2,7 +2,7 @@
   "name": "Lucide Midnight",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_midnight.xml",
+  "editorScheme": "/themes/lucide/lucide_midnight.xml",
   "colors": {
     "primaryBackground": "#090E1A",
     "secondaryBackground": "#0F1525",

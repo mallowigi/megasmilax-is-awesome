@@ -2,7 +2,7 @@
   "name": "Bearded Theme Oceanic",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/oceanic.xml",
+  "editorScheme": "/themes/bearded/oceanic.xml",
   "ui": {
     "*": {
       "arc": "7",

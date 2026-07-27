@@ -2,7 +2,7 @@
   "name": "Bearded Theme Arc Eggplant",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/arc-eggplant.xml",
+  "editorScheme": "/themes/bearded/arc-eggplant.xml",
   "ui": {
     "*": {
       "arc": "7",

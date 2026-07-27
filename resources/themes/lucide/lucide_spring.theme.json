@@ -2,7 +2,7 @@
   "name": "Lucide Spring",
   "dark": false,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_spring.xml",
+  "editorScheme": "/themes/lucide/lucide_spring.xml",
   "colors": {
     "primaryBackground": "#F0FAF0",
     "secondaryBackground": "#E0F5E0",

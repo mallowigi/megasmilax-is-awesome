@@ -2,7 +2,7 @@
   "name": "Noctis Hibernus",
   "dark": false,
   "author": "Liviu Schera",
-  "editorScheme": "/themes/noctis_hibernus.xml",
+  "editorScheme": "/themes/noctis/noctis_hibernus.xml",
   "colors": {
     "background": "#f4f6f6",
     "foreground": "#005661",

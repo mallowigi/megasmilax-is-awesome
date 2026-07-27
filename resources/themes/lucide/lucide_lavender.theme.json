@@ -2,7 +2,7 @@
   "name": "Lucide Lavender",
   "dark": false,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_lavender.xml",
+  "editorScheme": "/themes/lucide/lucide_lavender.xml",
   "colors": {
     "primaryBackground": "#F5F0FF",
     "secondaryBackground": "#ECE5FF",

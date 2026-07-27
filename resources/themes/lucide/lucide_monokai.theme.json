@@ -2,7 +2,7 @@
   "name": "Lucide Monokai",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_monokai.xml",
+  "editorScheme": "/themes/lucide/lucide_monokai.xml",
   "colors": {
     "primaryBackground": "#272822",
     "secondaryBackground": "#2D2E27",

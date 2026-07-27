@@ -2,7 +2,7 @@
   "name": "Bearded Theme Altica",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/altica.xml",
+  "editorScheme": "/themes/bearded/altica.xml",
   "ui": {
     "*": {
       "arc": "7",

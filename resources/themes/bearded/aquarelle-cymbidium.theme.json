@@ -2,7 +2,7 @@
   "name": "Bearded Theme Aquarelle Cymbidium",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/aquarelle-cymbidium.xml",
+  "editorScheme": "/themes/bearded/aquarelle-cymbidium.xml",
   "ui": {
     "*": {
       "arc": "7",

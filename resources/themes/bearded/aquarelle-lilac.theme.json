@@ -2,7 +2,7 @@
   "name": "Bearded Theme Aquarelle Lilac",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/aquarelle-lilac.xml",
+  "editorScheme": "/themes/bearded/aquarelle-lilac.xml",
   "ui": {
     "*": {
       "arc": "7",

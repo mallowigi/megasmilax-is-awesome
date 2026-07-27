@@ -2,7 +2,7 @@
   "name": "Lucide GitHub Light",
   "dark": false,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_github-light.xml",
+  "editorScheme": "/themes/lucide/lucide_github-light.xml",
   "colors": {
     "primaryBackground": "#FFFFFF",
     "secondaryBackground": "#F6F8FA",

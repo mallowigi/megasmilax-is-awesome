@@ -2,7 +2,7 @@
   "name": "Bearded Theme Black & Diamond Soft",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/black-diamond-soft.xml",
+  "editorScheme": "/themes/bearded/black-diamond-soft.xml",
   "ui": {
     "*": {
       "arc": "7",

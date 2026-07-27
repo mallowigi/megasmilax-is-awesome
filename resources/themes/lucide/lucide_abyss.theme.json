@@ -2,7 +2,7 @@
   "name": "Lucide Abyss",
   "dark": true,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_abyss.xml",
+  "editorScheme": "/themes/lucide/lucide_abyss.xml",
   "colors": {
     "primaryBackground": "#000C18",
     "secondaryBackground": "#051525",

@@ -2,7 +2,7 @@
   "name": "Mythos Olympus",
   "dark": true,
   "author": "Mythos",
-  "editorScheme": "/themes/mythos-olympus.xml",
+  "editorScheme": "/themes/mythos/mythos-olympus.xml",
   "colors": {
     "bg": "#0E1726",
     "bg2": "#152036",

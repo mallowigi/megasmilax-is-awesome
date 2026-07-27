@@ -2,7 +2,7 @@
   "name": "Bearded Theme OLED",
   "dark": true,
   "author": "Bearded Bear",
-  "editorScheme": "/themes/oled.xml",
+  "editorScheme": "/themes/bearded/oled.xml",
   "ui": {
     "*": {
       "arc": "7",

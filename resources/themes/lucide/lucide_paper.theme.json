@@ -2,7 +2,7 @@
   "name": "Lucide Paper",
   "dark": false,
   "author": "Lucide Theme",
-  "editorScheme": "/themes/lucide_paper.xml",
+  "editorScheme": "/themes/lucide/lucide_paper.xml",
   "colors": {
     "primaryBackground": "#F5EDD8",
     "secondaryBackground": "#ECE4CC",

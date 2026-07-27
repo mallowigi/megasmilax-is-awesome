@@ -2,7 +2,7 @@
   "name": "Mythos Nyx",
   "dark": true,
   "author": "Mythos",
-  "editorScheme": "/themes/mythos-nyx.xml",
+  "editorScheme": "/themes/mythos/mythos-nyx.xml",
   "colors": {
     "bg": "#0A0A12",
     "bg2": "#111120",
