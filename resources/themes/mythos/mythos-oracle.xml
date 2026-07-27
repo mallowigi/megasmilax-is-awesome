@@ -1,0 +1,141 @@
+<scheme name="Mythos Oracle" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2026-04-20T00:00:00</property>
+    <property name="ide">idea</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_COLOR" value="D97757"/>
+    <option name="CARET_ROW_COLOR" value="261F1B"/>
+    <option name="CONSOLE_BACKGROUND_KEY" value="1C1714"/>
+    <option name="GUTTER_BACKGROUND" value="1C1714"/>
+    <option name="INDENT_GUIDE" value="332921"/>
+    <option name="SELECTED_INDENT_GUIDE" value="D97757"/>
+    <option name="LINE_NUMBERS_COLOR" value="5A4D42"/>
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="D97757"/>
+    <option name="NOTIFICATION_BACKGROUND" value="261F1B"/>
+    <option name="RIGHT_MARGIN_COLOR" value="332921"/>
+    <option name="SELECTION_BACKGROUND" value="3E342A"/>
+    <option name="SELECTION_FOREGROUND" value="E8DCD0"/>
+    <option name="TEARLINE_COLOR" value="2C241F"/>
+    <option name="VISUAL_INDENT_GUIDE" value="332921"/>
+    <option name="WHITESPACES" value="2C241F"/>
+    <option name="ADDED_LINES_COLOR" value="2E4A2E"/>
+    <option name="DELETED_LINES_COLOR" value="4A2E2E"/>
+    <option name="MODIFIED_LINES_COLOR" value="4A3A22"/>
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="4A3A22"/>
+    <option name="BORDER_LINES_COLOR" value="4A4A4A"/>
+  </colors>
+  <attributes>
+    <option name="TEXT">
+      <value><option name="FOREGROUND" value="E8DCD0"/><option name="BACKGROUND" value="1C1714"/></value>
+    </option>
+    <option name="DEFAULT_KEYWORD">
+      <value><option name="FOREGROUND" value="D97757"/><option name="FONT_TYPE" value="1"/></value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value><option name="FOREGROUND" value="C8A888"/></value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value><option name="FOREGROUND" value="E8A878"/></value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value><option name="FOREGROUND" value="5A4D42"/><option name="FONT_TYPE" value="2"/></value>
+    </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value><option name="FOREGROUND" value="5A4D42"/><option name="FONT_TYPE" value="2"/></value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value><option name="FOREGROUND" value="6E6056"/><option name="FONT_TYPE" value="2"/></value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT_TAG">
+      <value><option name="FOREGROUND" value="D97757"/></value>
+    </option>
+    <option name="DEFAULT_DOC_MARKUP">
+      <value><option name="FOREGROUND" value="E8B888"/></value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value><option name="FOREGROUND" value="E8B888"/></value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value><option name="FOREGROUND" value="E8B888"/><option name="FONT_TYPE" value="2"/></value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value><option name="FOREGROUND" value="E8A878"/></value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value><option name="FOREGROUND" value="E0C8A8"/></value>
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value><option name="FOREGROUND" value="E0C8A8"/><option name="FONT_TYPE" value="2"/></value>
+    </option>
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value><option name="FOREGROUND" value="E8DCD0"/></value>
+    </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value><option name="FOREGROUND" value="B8A088"/><option name="FONT_TYPE" value="2"/></value>
+    </option>
+    <option name="DEFAULT_CONSTANT">
+      <value><option name="FOREGROUND" value="B8A088"/></value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value><option name="FOREGROUND" value="E8DCD0"/></value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value><option name="FOREGROUND" value="E8DCD0"/></value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value><option name="FOREGROUND" value="E8DCD0"/></value>
+    </option>
+    <option name="DEFAULT_OPERATION_SIGN">
+      <value><option name="FOREGROUND" value="D97757"/></value>
+    </option>
+    <option name="DEFAULT_BRACES">
+      <value><option name="FOREGROUND" value="E8DCD0"/></value>
+    </option>
+    <option name="DEFAULT_BRACKETS">
+      <value><option name="FOREGROUND" value="E8DCD0"/></value>
+    </option>
+    <option name="DEFAULT_PARENTHS">
+      <value><option name="FOREGROUND" value="E8DCD0"/></value>
+    </option>
+    <option name="DEFAULT_SEMICOLON">
+      <value><option name="FOREGROUND" value="8A7B6C"/></value>
+    </option>
+    <option name="DEFAULT_COMMA">
+      <value><option name="FOREGROUND" value="8A7B6C"/></value>
+    </option>
+    <option name="DEFAULT_DOT">
+      <value><option name="FOREGROUND" value="8A7B6C"/></value>
+    </option>
+    <option name="DEFAULT_TAG">
+      <value><option name="FOREGROUND" value="D97757"/></value>
+    </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value><option name="FOREGROUND" value="E8B888"/></value>
+    </option>
+    <option name="DEFAULT_LABEL">
+      <value><option name="FOREGROUND" value="E8A878"/></value>
+    </option>
+    <option name="DEFAULT_METADATA">
+      <value><option name="FOREGROUND" value="B8A088"/></value>
+    </option>
+    <option name="DEFAULT_VALID_STRING_ESCAPE">
+      <value><option name="FOREGROUND" value="D97757"/></value>
+    </option>
+    <option name="DEFAULT_INVALID_STRING_ESCAPE">
+      <value><option name="FOREGROUND" value="E04F4F"/></value>
+    </option>
+    <option name="BAD_CHARACTER">
+      <value><option name="FOREGROUND" value="E04F4F"/><option name="EFFECT_TYPE" value="3"/><option name="EFFECT_COLOR" value="E04F4F"/></value>
+    </option>
+    <option name="CONSOLE_NORMAL_OUTPUT">
+      <value><option name="FOREGROUND" value="E8DCD0"/></value>
+    </option>
+    <option name="CONSOLE_ERROR_OUTPUT">
+      <value><option name="FOREGROUND" value="E04F4F"/><option name="FONT_TYPE" value="1"/></value>
+    </option>
+    <option name="CONSOLE_SYSTEM_OUTPUT">
+      <value><option name="FOREGROUND" value="8A7B6C"/></value>
+    </option>
+  </attributes>
+</scheme>

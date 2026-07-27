@@ -1,0 +1,159 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
+    <id>com.mallowigi.megasmilax</id>
+    <version>1.0.0</version>
+
+    <!-- Public plugin name should be written in Title Case.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-name -->
+    <name>Megasmilax is Awesome</name>
+    <category>UI</category>
+
+    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
+    <vendor url="https://www.yourcompany.com">Klarth Corp</vendor>
+
+    <idea-version since-build="251"/>
+
+    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
+         Guidelines: https://plugins.jetbrains.com/docs/marketplace/best-practices-for-listing.html#plugin-description -->
+    <description><![CDATA[
+        Megasmilax is a collection of themes for JetBrains IDEs. It includes a variety of color schemes and styles to enhance your coding experience. Choose from dark, light, and high-contrast themes to suit your preferences and improve readability.
+        ]]></description>
+
+    <!-- Short summary of new features and bugfixes in the latest plugin version.
+         Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
+    <change-notes><![CDATA[
+        Megasmilax is Awesome v1.0.0:
+        - Initial release of the Megasmilax theme collection.
+    ]]></change-notes>
+
+    <!-- Product and plugin compatibility requirements.
+         Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Theme Providers -->
+        <themeProvider id="com.mallowigi.megasmilax.bearded.anthracite" path="/themes/bearded/anthracite.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.anthracite-light" path="/themes/bearded/anthracite-light.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.arc" path="/themes/bearded/arc.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.arc-eolstorm" path="/themes/bearded/arc-eolstorm.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.arc-blueberry" path="/themes/bearded/arc-blueberry.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.arc-eggplant" path="/themes/bearded/arc-eggplant.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.arc-reversed" path="/themes/bearded/arc-reversed.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.vivid-purple" path="/themes/bearded/vivid-purple.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.vivid-black" path="/themes/bearded/vivid-black.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.vivid-light" path="/themes/bearded/vivid-light.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.monokai-terra" path="/themes/bearded/monokai-terra.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.monokai-metallian" path="/themes/bearded/monokai-metallian.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.monokai-stone" path="/themes/bearded/monokai-stone.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.monokai-black" path="/themes/bearded/monokai-black.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.monokai-reversed" path="/themes/bearded/monokai-reversed.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.solarized-dark" path="/themes/bearded/solarized-dark.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.solarized-reversed" path="/themes/bearded/solarized-reversed.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.solarized-light" path="/themes/bearded/solarized-light.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.oceanic" path="/themes/bearded/oceanic.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.oceanic-reversed" path="/themes/bearded/oceanic-reversed.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.milkshake-raspberry" path="/themes/bearded/milkshake-raspberry.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.milkshake-blueberry" path="/themes/bearded/milkshake-blueberry.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.milkshake-mango" path="/themes/bearded/milkshake-mango.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.milkshake-mint" path="/themes/bearded/milkshake-mint.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.milkshake-vanilla" path="/themes/bearded/milkshake-vanilla.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.black-gold" path="/themes/bearded/black-gold.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.black-gold-soft" path="/themes/bearded/black-gold-soft.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.black-ruby" path="/themes/bearded/black-ruby.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.black-ruby-soft" path="/themes/bearded/black-ruby-soft.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.black-emerald" path="/themes/bearded/black-emerald.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.black-emerald-soft" path="/themes/bearded/black-emerald-soft.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.black-diamond" path="/themes/bearded/black-diamond.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.black-diamond-soft" path="/themes/bearded/black-diamond-soft.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.black-amethyst" path="/themes/bearded/black-amethyst.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.black-amethyst-soft" path="/themes/bearded/black-amethyst-soft.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.aquarelle-cymbidium" path="/themes/bearded/aquarelle-cymbidium.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.aquarelle-hydrangea" path="/themes/bearded/aquarelle-hydrangea.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.aquarelle-lilac" path="/themes/bearded/aquarelle-lilac.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.hc-ebony" path="/themes/bearded/hc-ebony.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.hc-midnightvoid" path="/themes/bearded/hc-midnightvoid.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.hc-wonderlandwood" path="/themes/bearded/hc-wonderlandwood.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.hc-brewingstorm" path="/themes/bearded/hc-brewingstorm.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.hc-flurry" path="/themes/bearded/hc-flurry.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.minuit" path="/themes/bearded/minuit.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.chocolate-espresso" path="/themes/bearded/chocolate-espresso.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.stained-purple" path="/themes/bearded/stained-purple.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.stained-blue" path="/themes/bearded/stained-blue.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.surprising-eggplant" path="/themes/bearded/surprising-eggplant.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.surprising-blueberry" path="/themes/bearded/surprising-blueberry.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.surprising-watermelon" path="/themes/bearded/surprising-watermelon.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.colorblind" path="/themes/bearded/colorblind.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.oled" path="/themes/bearded/oled.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.earth" path="/themes/bearded/earth.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.coffee" path="/themes/bearded/coffee.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.coffee-reversed" path="/themes/bearded/coffee-reversed.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.coffee-cream" path="/themes/bearded/coffee-cream.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.voided" path="/themes/bearded/voided.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.altica" path="/themes/bearded/altica.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.will" path="/themes/bearded/will.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.gold-d-raynh" path="/themes/bearded/gold-d-raynh.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.gold-d-raynh-light" path="/themes/bearded/gold-d-raynh-light.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.melle-julie" path="/themes/bearded/melle-julie.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.melle-julie-light" path="/themes/bearded/melle-julie-light.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.bearded.webdevcody" path="/themes/bearded/webdevcody.theme.json" />
+
+        <themeProvider id="com.mallowigi.megasmilax.andromeda.theme" path="/themes/andromeda/Andromeda.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.andromeda.theme.aurora" path="/themes/andromeda/AndromedaAurora.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.andromeda.theme.solar" path="/themes/andromeda/AndromedaSolar.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.andromeda.theme.forest" path="/themes/andromeda/AndromedaForest.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.andromeda.theme.nebula" path="/themes/andromeda/AndromedaNebula.theme.json" />
+
+        <themeProvider id="com.mallowigi.megasmilax.lucide.obsidian" path="/themes/lucide/lucide_obsidian.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.midnight" path="/themes/lucide/lucide_midnight.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.dracula" path="/themes/lucide/lucide_dracula.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.one-dark" path="/themes/lucide/lucide_one-dark.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.tokyo-night" path="/themes/lucide/lucide_tokyo-night.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.nord" path="/themes/lucide/lucide_nord.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.catppuccin-mocha" path="/themes/lucide/lucide_catppuccin-mocha.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.gruvbox" path="/themes/lucide/lucide_gruvbox.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.monokai" path="/themes/lucide/lucide_monokai.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.night-owl" path="/themes/lucide/lucide_night-owl.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.volcano" path="/themes/lucide/lucide_volcano.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.forest" path="/themes/lucide/lucide_forest.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.abyss" path="/themes/lucide/lucide_abyss.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.cyberpunk" path="/themes/lucide/lucide_cyberpunk.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.aurora" path="/themes/lucide/lucide_aurora.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.deep-sea" path="/themes/lucide/lucide_deep-sea.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.snow" path="/themes/lucide/lucide_snow.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.solarized-light" path="/themes/lucide/lucide_solarized-light.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.github-light" path="/themes/lucide/lucide_github-light.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.one-light" path="/themes/lucide/lucide_one-light.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.catppuccin-latte" path="/themes/lucide/lucide_catppuccin-latte.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.rose" path="/themes/lucide/lucide_rose.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.paper" path="/themes/lucide/lucide_paper.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.lavender" path="/themes/lucide/lucide_lavender.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.spring" path="/themes/lucide/lucide_spring.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.desert" path="/themes/lucide/lucide_desert.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.oceanic" path="/themes/lucide/lucide_oceanic.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.sumi-e-dark" path="/themes/lucide/lucide_sumi-e-dark.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.lucide.sumi-e-light" path="/themes/lucide/lucide_sumi-e-light.theme.json" />
+
+        <themeProvider id="com.mallowigi.megasmilax.mythos.mythos-olympus" path="/themes/mythos/mythos-olympus.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.mythos.mythos-hades" path="/themes/mythos/mythos-hades.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.mythos.mythos-poseidon" path="/themes/mythos/mythos-poseidon.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.mythos.mythos-nyx" path="/themes/mythos/mythos-nyx.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.mythos.mythos-artemis" path="/themes/mythos/mythos-artemis.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.mythos.mythos-oracle" path="/themes/mythos/mythos-oracle.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.mythos.mythos-elysium" path="/themes/mythos/mythos-elysium.theme.json" />
+
+        <themeProvider id="com.mallowigi.megasmilax.noctis" path="/themes/noctis/noctis.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.noctis_sereno" path="/themes/noctis/noctis_sereno.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.noctis_obscuro" path="/themes/noctis/noctis_obscuro.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.noctis_azureus" path="/themes/noctis/noctis_azureus.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.noctis_bordo" path="/themes/noctis/noctis_bordo.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.noctis_uva" path="/themes/noctis/noctis_uva.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.noctis_viola" path="/themes/noctis/noctis_viola.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.noctis_minimus" path="/themes/noctis/noctis_minimus.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.noctis_lux" path="/themes/noctis/noctis_lux.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.noctis_hibernus" path="/themes/noctis/noctis_hibernus.theme.json" />
+        <themeProvider id="com.mallowigi.megasmilax.noctis_lilac" path="/themes/noctis/noctis_lilac.theme.json" />
+
+        <themeProvider id="com.mallowigi.megasmilax.pandatheme.theme" path="/themes/panda/Panda.theme.json" />
+    </extensions>
+</idea-plugin>
