@@ -1,7 +1,7 @@
 {
   "name": "Noctis Sereno",
   "dark": true,
-  "author": "Liviu Schera (IntelliJ port by bodiam)",
+  "author": "Liviu Schera",
   "editorScheme": "/themes/noctis_sereno.xml",
   "colors": {
     "background": "#112b2f",

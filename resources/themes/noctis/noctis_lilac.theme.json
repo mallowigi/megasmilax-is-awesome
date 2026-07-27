@@ -1,7 +1,7 @@
 {
   "name": "Noctis Lilac",
   "dark": false,
-  "author": "Liviu Schera (IntelliJ port by bodiam)",
+  "author": "Liviu Schera",
   "editorScheme": "/themes/noctis_lilac.xml",
   "colors": {
     "background": "#f2f1f8",

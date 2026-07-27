@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme Black & Gold",
   "dark": true,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/black-gold.xml",
   "ui": {
     "*": {

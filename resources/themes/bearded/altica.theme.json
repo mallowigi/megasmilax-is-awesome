@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme Altica",
   "dark": true,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/altica.xml",
   "ui": {
     "*": {

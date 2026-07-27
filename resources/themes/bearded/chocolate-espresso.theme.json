@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme Chocolate Espresso",
   "dark": true,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/chocolate-espresso.xml",
   "ui": {
     "*": {

@@ -1,7 +1,7 @@
 {
   "name": "Noctis Uva",
   "dark": true,
-  "author": "Liviu Schera (IntelliJ port by bodiam)",
+  "author": "Liviu Schera",
   "editorScheme": "/themes/noctis_uva.xml",
   "colors": {
     "background": "#292640",

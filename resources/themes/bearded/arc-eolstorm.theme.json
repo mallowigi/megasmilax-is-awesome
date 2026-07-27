@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme Arc Eolstorm",
   "dark": true,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/arc-eolstorm.xml",
   "ui": {
     "*": {

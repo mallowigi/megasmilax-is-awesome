@@ -1,7 +1,7 @@
 {
   "name": "Noctis Minimus",
   "dark": true,
-  "author": "Liviu Schera (IntelliJ port by bodiam)",
+  "author": "Liviu Schera",
   "editorScheme": "/themes/noctis_minimus.xml",
   "colors": {
     "background": "#1b2932",

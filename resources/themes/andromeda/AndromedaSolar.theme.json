@@ -1,7 +1,7 @@
 {
   "name": "Andromeda Solar",
   "dark": true,
-  "author": "EliverLara (VS Code), Jetplugins (IntelliJ port)",
+  "author": "EliverLara (VS Code)",
   "editorScheme": "/themes/AndromedaSolar.xml",
   "ui": {
     "*": {

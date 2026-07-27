@@ -1,7 +1,7 @@
 {
   "name": "Noctis Bordo",
   "dark": true,
-  "author": "Liviu Schera (IntelliJ port by bodiam)",
+  "author": "Liviu Schera",
   "editorScheme": "/themes/noctis_bordo.xml",
   "colors": {
     "background": "#322a2d",

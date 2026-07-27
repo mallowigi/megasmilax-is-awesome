@@ -1,7 +1,7 @@
 {
   "name": "Andromeda Nebula",
   "dark": true,
-  "author": "EliverLara (VS Code), Jetplugins (IntelliJ port)",
+  "author": "EliverLara (VS Code)",
   "editorScheme": "/themes/AndromedaNebula.xml",
   "ui": {
     "*": {

@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme Milkshake Blueberry",
   "dark": false,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/milkshake-blueberry.xml",
   "ui": {
     "*": {

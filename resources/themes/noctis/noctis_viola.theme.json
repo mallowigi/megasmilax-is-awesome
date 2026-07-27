@@ -1,7 +1,7 @@
 {
   "name": "Noctis Viola",
   "dark": true,
-  "author": "Liviu Schera (IntelliJ port by bodiam)",
+  "author": "Liviu Schera",
   "editorScheme": "/themes/noctis_viola.xml",
   "colors": {
     "background": "#30243d",

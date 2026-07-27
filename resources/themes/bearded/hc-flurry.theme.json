@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme HC Flurry",
   "dark": false,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/hc-flurry.xml",
   "ui": {
     "*": {

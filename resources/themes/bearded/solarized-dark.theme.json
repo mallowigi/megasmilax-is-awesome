@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme Solarized Dark",
   "dark": true,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/solarized-dark.xml",
   "ui": {
     "*": {

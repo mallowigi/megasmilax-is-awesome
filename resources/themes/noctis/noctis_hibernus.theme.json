@@ -1,7 +1,7 @@
 {
   "name": "Noctis Hibernus",
   "dark": false,
-  "author": "Liviu Schera (IntelliJ port by bodiam)",
+  "author": "Liviu Schera",
   "editorScheme": "/themes/noctis_hibernus.xml",
   "colors": {
     "background": "#f4f6f6",

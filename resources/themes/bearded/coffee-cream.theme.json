@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme Coffee Cream",
   "dark": false,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/coffee-cream.xml",
   "ui": {
     "*": {

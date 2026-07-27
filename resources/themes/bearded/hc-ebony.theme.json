@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme HC Ebony",
   "dark": true,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/hc-ebony.xml",
   "ui": {
     "*": {

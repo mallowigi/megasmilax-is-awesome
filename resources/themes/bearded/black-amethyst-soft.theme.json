@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme Black & Amethyst Soft",
   "dark": true,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/black-amethyst-soft.xml",
   "ui": {
     "*": {

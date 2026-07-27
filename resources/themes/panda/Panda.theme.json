@@ -1,7 +1,7 @@
 {
   "name": "Panda Dark",
   "dark": true,
-  "author": "Siamak Mokhtari (ported to IntelliJ)",
+  "author": "Siamak Mokhtari",
   "editorScheme": "/themes/Panda.xml",
   "ui": {
     "*": {

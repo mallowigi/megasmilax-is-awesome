@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme Gold D Raynh",
   "dark": true,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/gold-d-raynh.xml",
   "ui": {
     "*": {

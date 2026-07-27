@@ -1,7 +1,7 @@
 {
   "name": "Noctis Lux",
   "dark": false,
-  "author": "Liviu Schera (IntelliJ port by bodiam)",
+  "author": "Liviu Schera",
   "editorScheme": "/themes/noctis_lux.xml",
   "colors": {
     "background": "#fef8ec",

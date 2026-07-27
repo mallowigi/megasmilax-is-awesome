@@ -1,7 +1,7 @@
 {
   "name": "Bearded Theme Vivid Purple",
   "dark": true,
-  "author": "Bearded Bear (IntelliJ port)",
+  "author": "Bearded Bear",
   "editorScheme": "/themes/vivid-purple.xml",
   "ui": {
     "*": {
